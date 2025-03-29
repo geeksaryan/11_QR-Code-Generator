@@ -4,6 +4,13 @@ A simple web-based QR Code Generator that allows users to create QR codes for an
 
 ---
 
+
+## 🌐 Live Demo
+
+Check out the live version of the project here: [Live Demo](https://qr-code-generator-three-snowy.vercel.app/)
+
+---
+
 ## 🌟 Features
 
 - **Generate QR Codes**:  
@@ -17,12 +24,6 @@ A simple web-based QR Code Generator that allows users to create QR codes for an
 
 - **Smooth Animations**:  
   The QR code image box expands smoothly when a QR code is generated.
-
----
-
-## 🌐 Live Demo
-
-Check out the live version of the project here: [Live Demo](#)
 
 ---
 
